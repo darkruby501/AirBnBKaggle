@@ -1,10 +1,10 @@
 # Data Files
 *.csv
 *.zip
-*.pdf
 *.ppt
 
 HellingerTreesMatlab/
+Research/
 
 # Windows image file caches
 Thumbs.db
