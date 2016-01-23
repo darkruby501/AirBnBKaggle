@@ -13,7 +13,7 @@ This repository contains my entry in the 2015/2016 AirBnB competition on Kaggle.
 In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking. - [AirBnB Recruiting New User Bookings Challenge on Kaggle](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
 
 ### Reports and Slides
-- [Slide Deck](www.anb.com): Overview of entry, results, and recommendations to AirBnB.
+- [Slide Deck](https://docs.google.com/presentation/d/16UJ8_2Uu77xDzlTkADqexB1mcgOU_aUS0x8cB8VL07c/edit#slide=id.g105afda276_0_151): Overview of entry, results, and recommendations to AirBnB.
 - [Detailed Technical Report](): Explains data preparation and modelling in detail.
 
 ##### Example: personalized landing page based on predicted destination preference 
