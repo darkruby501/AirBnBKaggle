@@ -14,7 +14,7 @@ In this recruiting competition, Airbnb challenges you to predict in which countr
 
 ### Reports and Slides
 - [Slide Deck](https://docs.google.com/presentation/d/16UJ8_2Uu77xDzlTkADqexB1mcgOU_aUS0x8cB8VL07c/edit#slide=id.g105afda276_0_151): Overview of entry, results, and recommendations to AirBnB.
-- [Detailed Technical Report](): Explains data preparation and modelling in detail.
+- [Detailed Technical Report](http://nbviewer.jupyter.org/github/darkruby501/AirBnBRecruitingComp/blob/master/Tech%20Report.ipynb): Explains data preparation and modelling in detail.
 
 ##### Example: personalized landing page based on predicted destination preference 
 ![](Images/airbnb_homepage_suggestions_resized.png)
