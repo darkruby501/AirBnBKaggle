@@ -5,7 +5,7 @@
 - email: <rmb042@gmail.com>
 - github: [darkruby501](https://github.com/darkruby501)
 
-This repository contains my entry in the 2015/2016 AirBnB competition on Kaggle. This entry is also my captstone project for the [Springboard Data Science Intensive](https://www.springboard.com/workshops/data-science-intensive/).
+This repository contains my entry in the 2015/2016 AirBnB competition on Kaggle. This entry is also my captstone project for the [Springboard Data Science Intensive](https://www.springboard.com/workshops/data-science-intensive/). With a week to end of the competition, my entry is in the top 20%.
 
 **Can we predict where a new AirBnB user will make their first booking?**
 
